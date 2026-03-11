@@ -27,11 +27,11 @@ Successfully detected and analyzed failed SSH login attempts using Splunk SIEM.
 
 ## Screenshots
 Splunk Dashboard:-
-![Splunk Dashboard](screenshots/01_Splunk_dashboard.png)
+![Splunk Dashboard](Screenshots/01_Splunk_dashboard.png)
 Log Inputs:-
-![Log Inputs](screenshots/02_log_inputs.png)
+![Log Inputs](Screenshots/02_log_inputs.png)
 Failed Login Events:-
-![Failed Login Events](screenshots/03_failed_login_events.png)
+![Failed Login Events](Screenshots/03_failed_login_events.png)
 Aggregated Failed Login:-
-![Aggregated Failed Logins](screenshots/04_failed_login_stats.png)
+![Aggregated Failed Logins](Screenshots/04_failed_login_stats.png)
 
