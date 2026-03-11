@@ -1,4 +1,4 @@
-# Project 1: Centralized Log Collection & Monitoring
+# Centralized Log Collection & Monitoring
 
 ## Objective
 To collect and analyze Linux authentication logs using Splunk SIEM in order to detect suspicious login activity.
